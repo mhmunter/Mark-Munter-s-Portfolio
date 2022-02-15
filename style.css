@@ -1,0 +1,43 @@
+:root{
+    --color-one: light rgb(87, 87, 253);
+    --color-two: grey;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+Nav a:hover{
+    color: black;
+}
+
+nav h1{
+    columns: black;
+}
+header{
+    /* display: flex;
+    justify-content: baseline;
+    flex-wrap: wrap;
+    position: sticky;
+    position: -webkit-sticky; */
+    /*for safari*/
+    
+    padding: 20px 35px;
+  background-color: var(--color-two);
+  display: flex;
+  justify-content: baseline;
+  flex-wrap: wrap;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  background-image: url("../images/hero-bg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 80%;
+  z-index: 9999;
+}
+
+body{
+    background-color: var(--color-two);
+}
