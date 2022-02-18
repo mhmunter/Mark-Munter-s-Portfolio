@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css">
+    <title>About Me!</title>
+  </head>
+
+  <body>
+<h1>About Me</h1>
+
+<br>
+<p>
+
+                                         
+         I was born and raised in San Antonio Texas. My famliy is well known in the local music and art communties. 
+    I eraned a B.A. in History with a minor in Geography.My wife is also a software engineer, and my son is currently in Pre-k.
+    I've spent the majority of my professional life in the banking indusrty, with an emphasis on customer service. I'm a lover of puzzles
+    detactive novels, and history. In genral I have a passion for learning, searching for answers, and finding the truth in all things.
+</p>
+</body>
+</html>
