@@ -13,7 +13,7 @@ body{
     background-color: var(--color-one);
     flex: none;
 }
-
+/* controls Nav bar */
 Nav a:hover{
     color: var(--color-three);
 }
@@ -49,6 +49,7 @@ nav {
     justify-items: flex-start;
     font-size-adjust: inherit;}
 
+/* Mid Images */
 .hero img{
     background-size: cover;
     display: flex;
@@ -80,7 +81,7 @@ display: flex;
 justify-content: space-between;
 flex-wrap: wrap;
 }
-
+/* Controls footer */
 footer a:hover{
     color: var(--color-three);
 }
@@ -125,7 +126,7 @@ footer{
 }
 
 
-
+/* reactive coding */
 
 @media screen and (max-width: 768px) { 
 
